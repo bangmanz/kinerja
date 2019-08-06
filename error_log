@@ -1,0 +1,32 @@
+[19-Dec-2018 16:22:33 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 16:32:29 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 16:47:53 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:05:38 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:12:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:12:25 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:13:53 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:14:03 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:14:06 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:14:28 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:14:53 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:14:55 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:18:19 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:20:45 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:20:51 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:21:50 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:22:05 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:23:39 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:25:01 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:25:04 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/viewlaporanpekerjaan.php on line 50
+[19-Dec-2018 17:25:09 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:32:10 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:32:46 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:33:30 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[19-Dec-2018 17:34:12 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[03-Jan-2019 20:38:42 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/ckpt6832/public_html/dev3/page/detaildlpk.php on line 35
+[25-Jan-2019 16:05:28 Asia/Jakarta] PHP Warning:  include(mod_top_tiles.php): failed to open stream: No such file or directory in /home/ckpt6832/public_html/dev3/page/home.php on line 5
+[25-Jan-2019 16:05:28 Asia/Jakarta] PHP Warning:  include(mod_top_tiles.php): failed to open stream: No such file or directory in /home/ckpt6832/public_html/dev3/page/home.php on line 5
+[25-Jan-2019 16:05:28 Asia/Jakarta] PHP Warning:  include(): Failed opening 'mod_top_tiles.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ckpt6832/public_html/dev3/page/home.php on line 5
+[25-Jan-2019 16:05:38 Asia/Jakarta] PHP Warning:  include(mod_top_tiles.php): failed to open stream: No such file or directory in /home/ckpt6832/public_html/dev3/page/home.php on line 5
+[25-Jan-2019 16:05:38 Asia/Jakarta] PHP Warning:  include(mod_top_tiles.php): failed to open stream: No such file or directory in /home/ckpt6832/public_html/dev3/page/home.php on line 5
+[25-Jan-2019 16:05:38 Asia/Jakarta] PHP Warning:  include(): Failed opening 'mod_top_tiles.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ckpt6832/public_html/dev3/page/home.php on line 5

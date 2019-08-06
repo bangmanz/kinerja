@@ -1,0 +1,2 @@
+[30-Nov-2017 17:45:34 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ckpt6832/public_html/dev/page/add_penilaian.php:10) in /home/ckpt6832/public_html/dev/page/add_penilaian.php on line 13
+[30-Nov-2017 17:45:39 Asia/Jakarta] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/ckpt6832/public_html/dev/page/add_penilaian.php:10) in /home/ckpt6832/public_html/dev/page/add_penilaian.php on line 13

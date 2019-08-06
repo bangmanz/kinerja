@@ -1,0 +1,5 @@
+- menu utk entry realisasi masuk laporan, pembayaran, dll
+- satuan dan waktu diambil dari POK
+- kualitas di menu laporan pekerjaan dihapus
+- laporan dibuat per tanggal 
+	--> pengecekan kalau realisasi dokumen melebihi target
